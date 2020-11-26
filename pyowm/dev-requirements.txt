@@ -1,0 +1,13 @@
+coverage
+coveralls
+Jinja2
+pip>=18.0
+pproxy>=2.2.0,<3
+pytest
+recommonmark
+Sphinx
+sphinx-readable-theme<2
+tox
+tox-travis
+virtualenv
+twine
